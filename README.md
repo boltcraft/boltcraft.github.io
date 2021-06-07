@@ -1,4 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Realm-Editor Help guide
+
+## Download
+
+## HUD
+
+### Tools
+### Palettes
+### Misc
+
+## Tutorial: Creating your first level
+
+## Tutorial: Connecting two levels
+
+## Triggers
+
+## Support or Contact
 
 You can use the [editor on GitHub](https://github.com/boltcraft/boltcraft.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
