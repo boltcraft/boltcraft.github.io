@@ -2,6 +2,6 @@
 
 ## Welcome to Realm-Editor Help guide
 
-### [Realm Editor - First Steps](https://github.com/boltcraft/realm-editor/wiki/realm-editor)
-### [Triggers Guide](https://github.com/boltcraft/realm-editor/wiki/triggers)
+### [Realm Editor / First Steps](https://github.com/boltcraft/realm-editor/wiki/realm-editor)
+### [Triggers Manual](https://github.com/boltcraft/realm-editor/wiki/triggers)
 
